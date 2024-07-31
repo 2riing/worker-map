@@ -5,6 +5,7 @@ import MyMap2 from './components/MyMap2';
 import MyMap4 from './components/MyMap4';
 import ReactNaverMap from './components/ReactNaverMap';
 import ReactNaverGpt from './components/ReactNaverGpt';
+import GeoData from './components/GeoData';
 import ReactNaverWrkrMap from './components/ReactNaverWrkrMap';
 
 
@@ -16,6 +17,7 @@ function App() {
       {/* <ReactNaverMap/> */}
       {/* <ReactNaverGpt/> */}
       <ReactNaverWrkrMap />
+      {/* <GeoData/> */}
     </div>
   );
 }
